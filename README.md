@@ -72,7 +72,6 @@ Full-stack developer passionate about building scalable applications and explori
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/gauravkrsingh1)
-- 🐦 [Twitter](https://twitter.com/your-handle)
 - 🌍 [Portfolio Website](https://gaurav101.github.io)
 - 📧 Reach out for collaboration or to discuss tech!
 
