@@ -25,6 +25,7 @@ Full-stack developer passionate about building scalable applications and explori
 - **[chat-bot-backend](https://github.com/gaurav101/chat-bot-backend)** - Chat bot backend service
 
 ### ⚛️ Frontend & React Projects
+- **[LuminaJS](https://github.com/gaurav101/LuminaJS)** - zero deepdency Image processing library
 - **[react-redux-learning](https://github.com/gaurav101/react-redux-learning)** - React with Redux state management
 - **[amplify-react](https://github.com/gaurav101/amplify-react)** - React app with AWS Amplify integration
 - **[react-one](https://github.com/gaurav101/react-one)** - React.js playground project
