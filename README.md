@@ -44,9 +44,13 @@ Full-stack developer passionate about building scalable applications and explori
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav101&show_icons=true&theme=radical&count_private=true)
+<a href="https://github.com/gaurav101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav101&show_icons=true&theme=radical&count_private=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav101&layout=compact&theme=radical)
+<a href="https://github.com/gaurav101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav101&layout=compact&theme=radical" />
+</a>
 
 ---
 
@@ -77,4 +81,4 @@ Full-stack developer passionate about building scalable applications and explori
 
 ---
 
-*Last Updated: April 2026* ✨
+*Last Updated: May 2026* ✨
