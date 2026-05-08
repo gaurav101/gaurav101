@@ -23,7 +23,6 @@ Full-stack developer passionate about building scalable applications and explori
 
 ### ⚛️ Frontend & React Projects
 - **[LuminaJS](https://github.com/gaurav101/LuminaJS)** - zero deepdency Image processing library
-- **[react-redux-learning](https://github.com/gaurav101/react-redux-learning)** - React with Redux state management
 - **[Decision-tree-editor](https://github.com/gaurav101/Decision-tree-editor)** - Decision tree visualization editor (TypeScript)
 - **[d3-world-map](https://github.com/gaurav101/d3-world-map)** - Interactive world map using D3.js (TypeScript)
 
@@ -36,8 +35,7 @@ Full-stack developer passionate about building scalable applications and explori
 - **[REST-API-ENGINE](https://github.com/gaurav101/REST-API-ENGINE)** - REST API engine in PHP
 - **[php-apns](https://github.com/gaurav101/php-apns)** - PHP Apple Push Notification Service
 - **[single-file-comment-edior](https://github.com/gaurav101/single-file-comment-edior)** - Comment editor tool
-- **[ES6-fundas](https://github.com/gaurav101/ES6-fundas)** - ES6 JavaScript fundamentals
-
+  
 ### 📖 Learning & Other Projects
 - **[portfolio](https://github.com/gaurav101/portfolio)** - Personal portfolio project
 - **[gaurav101.github.io](https://github.com/gaurav101/gaurav101.github.io)** - GitHub Pages personal portfolio
