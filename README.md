@@ -18,18 +18,12 @@ Full-stack developer passionate about building scalable applications and explori
 ## 📚 Featured Projects
 
 ### 🚀 Backend & Java Development
-- **[springboot-v1](https://github.com/gaurav101/springboot-v1)** - Learning Spring Boot framework project
-- **[Java-practice](https://github.com/gaurav101/Java-practice)** - Java playground for practice and learning
-- **[java-practice-basic](https://github.com/gaurav101/java-practice-basic)** - Basic Java practice exercises
 - **[observer-java](https://github.com/gaurav101/observer-java)** - Observer design pattern implementation in Java
 - **[chat-bot-backend](https://github.com/gaurav101/chat-bot-backend)** - Chat bot backend service
 
 ### ⚛️ Frontend & React Projects
 - **[LuminaJS](https://github.com/gaurav101/LuminaJS)** - zero deepdency Image processing library
 - **[react-redux-learning](https://github.com/gaurav101/react-redux-learning)** - React with Redux state management
-- **[amplify-react](https://github.com/gaurav101/amplify-react)** - React app with AWS Amplify integration
-- **[react-one](https://github.com/gaurav101/react-one)** - React.js playground project
-- **[react-to-do](https://github.com/gaurav101/react-to-do)** - To-do application built with React
 - **[Decision-tree-editor](https://github.com/gaurav101/Decision-tree-editor)** - Decision tree visualization editor (TypeScript)
 - **[d3-world-map](https://github.com/gaurav101/d3-world-map)** - Interactive world map using D3.js (TypeScript)
 
@@ -45,8 +39,6 @@ Full-stack developer passionate about building scalable applications and explori
 - **[ES6-fundas](https://github.com/gaurav101/ES6-fundas)** - ES6 JavaScript fundamentals
 
 ### 📖 Learning & Other Projects
-- **[JS-learning](https://github.com/gaurav101/JS-learning)** - JavaScript learning resources
-- **[p5](https://github.com/gaurav101/p5)** - p5.js creative coding project
 - **[portfolio](https://github.com/gaurav101/portfolio)** - Personal portfolio project
 - **[gaurav101.github.io](https://github.com/gaurav101/gaurav101.github.io)** - GitHub Pages personal portfolio
 
