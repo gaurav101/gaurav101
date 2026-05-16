@@ -23,6 +23,8 @@ Full-stack developer passionate about building scalable applications and explori
 
 ### ⚛️ Frontend & React Projects
 - **[LuminaJS](https://github.com/gaurav101/LuminaJS)** - zero deepdency Image processing library
+- **[numtowords](https://github.com/gaurav101/numtowords)** -Convert numbers to words in multiple languages and numeral systems — English, Indian, Hindi, German, French — with full TypeScript support,zero dependencies and < 3kb size.
+
 - **[Decision-tree-editor](https://github.com/gaurav101/Decision-tree-editor)** - Decision tree visualization editor (TypeScript)
 - **[d3-world-map](https://github.com/gaurav101/d3-world-map)** - Interactive world map using D3.js (TypeScript)
 
