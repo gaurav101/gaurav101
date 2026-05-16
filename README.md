@@ -17,16 +17,20 @@ Full-stack developer passionate about building scalable applications and explori
 
 ## 📚 Featured Projects
 
+
+### ⚛️ Frontend & React Projects
+- **[LuminaJS](https://github.com/gaurav101/LuminaJS)** - a modular, chainable,lightweight, zero-dependency JavaScript utility library for browser-based image processing using the HTML5 Canvas API. It provides a functional approach to image manipulation, focusing on performance and ease of use.
+- **[numtowords](https://github.com/gaurav101/numtowords)** -Convert numbers to words in multiple languages and numeral systems — English, Indian, Hindi, German, French — with full TypeScript support,zero dependencies and < 3kb size.
+- **[numtowords-website](https://github.com/gaurav101/numtowords-website)** -implementation of numtowords
+- **[Decision-tree-editor](https://github.com/gaurav101/Decision-tree-editor)** - Decision tree visualization editor (TypeScript)
+- **[d3-world-map](https://github.com/gaurav101/d3-world-map)** - Interactive world map using D3.js (TypeScript)
+
+
 ### 🚀 Backend & Java Development
+- **[FluentMarkdown](https://github.com/gaurav101/FluentMarkdown)** -A lightweight, zero-boilerplate Java library that converts Markdown to styled HTML for any CSS framework — Tailwind, Bootstrap, Bulma, or your own custom classes — using a clean fluent API built on top of commonmark-java.
 - **[observer-java](https://github.com/gaurav101/observer-java)** - Observer design pattern implementation in Java
 - **[chat-bot-backend](https://github.com/gaurav101/chat-bot-backend)** - Chat bot backend service
 
-### ⚛️ Frontend & React Projects
-- **[LuminaJS](https://github.com/gaurav101/LuminaJS)** - zero deepdency Image processing library
-- **[numtowords](https://github.com/gaurav101/numtowords)** -Convert numbers to words in multiple languages and numeral systems — English, Indian, Hindi, German, French — with full TypeScript support,zero dependencies and < 3kb size.
-
-- **[Decision-tree-editor](https://github.com/gaurav101/Decision-tree-editor)** - Decision tree visualization editor (TypeScript)
-- **[d3-world-map](https://github.com/gaurav101/d3-world-map)** - Interactive world map using D3.js (TypeScript)
 
 ### 🦀 Rust Projects
 - **[rust-apps](https://github.com/gaurav101/rust-apps)** - Collection of Rust applications
