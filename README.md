@@ -21,6 +21,7 @@ Full-stack developer passionate about building scalable applications and explori
 ### ⚛️ Frontend & React Projects
 
 #### Latest Projects
+- **[port-kill](https://github.com/gaurav101/port-kill)** ⭐ NEW - A highly maintainable, lightweight, cross-platform programmatic API and zero-dependency CLI tool to terminate processes running on specific ports. Perfect for Node.js developers integrating into test suites (Jest/Mocha) and CI/CD pipelines. [Website](https://port-kill.vercel.app)
 - **[localyx](https://github.com/gaurav101/localyx)** ⭐ NEW - A robust React hook for managing state in `localStorage` with built-in support for TTL (Time to Live) and cross-tab synchronization. Perfect for persisting user preferences and session data. [Demo](https://localyx.vercel.app)
 - **[FlowTree](https://github.com/gaurav101/FlowTree)** - Simple and elegant React flow implementation using Dagre for node-link diagram visualization and manipulation (TypeScript)
 
