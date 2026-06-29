@@ -9,10 +9,9 @@ Full-stack developer passionate about building scalable applications and explori
 | Category | Technologies |
 |----------|---------------|
 | **Languages** | Java, JavaScript, TypeScript, Python, PHP, Rust, HTML, CSS |
-| **Frontend** | React, Redux, D3.js, Amplify, React Hooks, TypeScript |
+| **Frontend** | React, Redux, D3.js, React Hooks, TypeScript |
 | **Backend** | Spring Boot, Node.js, REST APIs, Microservices |
-| **Tools & Platforms** | Git, Docker, AWS Amplify, Vercel, Netlify |
-| **Libraries & Frameworks** | Dagre, CommonMark |
+| **Tools & Platforms** | Git, Docker, AWS Amplify, Vercel, Netlify  GCP , OCP |
 
 ---
 
