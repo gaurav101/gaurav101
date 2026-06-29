@@ -1,6 +1,6 @@
 # 👋 Hello! I'm [Gaurav Singh](https://gaurav101.github.io/)
 
-Full-stack developer passionate about building scalable applications and exploring new technologies. Welcome to my GitHub profile! 
+Full-stack Product developer passionate about building scalable applications and exploring new technologies. Welcome to my GitHub profile! 
 
 ---
 
